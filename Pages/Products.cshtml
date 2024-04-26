@@ -1,0 +1,24 @@
+@page
+@model ProductsModel
+@{
+    ViewData["Title"] = " page";
+}
+
+<p class = "prod">All products</p>
+<form class= "search" method = "post">
+    <label asp-for = "search"></label>
+    <input asp-for = "search" />
+    <input type = "submit" value = "search"/>
+
+</form>
+<div class = "products" id="products">
+     @foreach  (var product in Model.products){         
+                <div class=" allproducts " >
+                    <a asp-page="productthumbnail" asp-page-handler="add" asp-route-id="@product.Id"><img src="image/@product.ProductImage"  alt=""></a>
+         
+                    <a class = "tag"asp-page="productthumbnail" asp-page-handler="add" asp-route-id="@product.Id">@product.Name</a>
+                    <p >£@product.Price</p>
+                   
+                </div>
+     }
+</div>

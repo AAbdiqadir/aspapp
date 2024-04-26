@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/obj/Debug/net8.0/scopedcss/projectbundle/aspnetcoreapp.bundle.scp.css",
+      "PackagePath": "staticwebassets/aspnetcoreapp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/AMedis.png",
+      "PackagePath": "staticwebassets/image/AMedis.png"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/IMG_9917.jpg",
+      "PackagePath": "staticwebassets/image/IMG_9917.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/JOES_Jeans_logo_logotype.png",
+      "PackagePath": "staticwebassets/image/JOES_Jeans_logo_logotype.png"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/Newsletter.jpeg",
+      "PackagePath": "staticwebassets/image/Newsletter.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/Spotwear.jpeg",
+      "PackagePath": "staticwebassets/image/Spotwear.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/Tech.jpeg",
+      "PackagePath": "staticwebassets/image/Tech.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/TeddylinedJacket.jpeg",
+      "PackagePath": "staticwebassets/image/TeddylinedJacket.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/ahmed.jpeg.jpg",
+      "PackagePath": "staticwebassets/image/ahmed.jpeg.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/atletico.jpeg",
+      "PackagePath": "staticwebassets/image/atletico.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/barca.jpeg",
+      "PackagePath": "staticwebassets/image/barca.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/beane.jpeg",
+      "PackagePath": "staticwebassets/image/beane.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/cartoon.png",
+      "PackagePath": "staticwebassets/image/cartoon.png"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/coat.jpeg",
+      "PackagePath": "staticwebassets/image/coat.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/coats,jpeg.jpg",
+      "PackagePath": "staticwebassets/image/coats,jpeg.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/denim jacket.jpg",
+      "PackagePath": "staticwebassets/image/denim jacket.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/denim jacket1.jpg",
+      "PackagePath": "staticwebassets/image/denim jacket1.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/denim jacket2.jpg",
+      "PackagePath": "staticwebassets/image/denim jacket2.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/denim jacket3.jpg",
+      "PackagePath": "staticwebassets/image/denim jacket3.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/derby.jpeg",
+      "PackagePath": "staticwebassets/image/derby.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/down.jpeg",
+      "PackagePath": "staticwebassets/image/down.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/gown.jpeg",
+      "PackagePath": "staticwebassets/image/gown.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/halfies.jpeg",
+      "PackagePath": "staticwebassets/image/halfies.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/hood1.jpeg",
+      "PackagePath": "staticwebassets/image/hood1.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/hoodie.jpeg",
+      "PackagePath": "staticwebassets/image/hoodie.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/image2.jpeg",
+      "PackagePath": "staticwebassets/image/image2.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jacket.jpeg",
+      "PackagePath": "staticwebassets/image/jacket.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jeans.jpeg",
+      "PackagePath": "staticwebassets/image/jeans.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jersey.jpeg",
+      "PackagePath": "staticwebassets/image/jersey.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jogger.jpeg",
+      "PackagePath": "staticwebassets/image/jogger.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jordan.jpeg",
+      "PackagePath": "staticwebassets/image/jordan.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/jp.jpeg",
+      "PackagePath": "staticwebassets/image/jp.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/linedslippers.jpeg",
+      "PackagePath": "staticwebassets/image/linedslippers.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/liver.png",
+      "PackagePath": "staticwebassets/image/liver.png"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/logo.jpeg",
+      "PackagePath": "staticwebassets/image/logo.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/long-sleeve.jpeg",
+      "PackagePath": "staticwebassets/image/long-sleeve.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/nikee.jpeg",
+      "PackagePath": "staticwebassets/image/nikee.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/nylon.jpeg",
+      "PackagePath": "staticwebassets/image/nylon.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/overshirt.jpeg",
+      "PackagePath": "staticwebassets/image/overshirt.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/p.jpeg",
+      "PackagePath": "staticwebassets/image/p.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/padded.jpeg",
+      "PackagePath": "staticwebassets/image/padded.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/parca.jpeg",
+      "PackagePath": "staticwebassets/image/parca.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/paris.jpeg",
+      "PackagePath": "staticwebassets/image/paris.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexel.jpeg",
+      "PackagePath": "staticwebassets/image/pexel.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-aleksandar-pasaric-325185.jpg",
+      "PackagePath": "staticwebassets/image/pexels-aleksandar-pasaric-325185.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-andrea-piacquadio-845434.jpg",
+      "PackagePath": "staticwebassets/image/pexels-andrea-piacquadio-845434.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-cottonbro-4904563.jpg",
+      "PackagePath": "staticwebassets/image/pexels-cottonbro-4904563.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-mnz-1639729.jpg",
+      "PackagePath": "staticwebassets/image/pexels-mnz-1639729.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-photo-8346053.jpeg",
+      "PackagePath": "staticwebassets/image/pexels-photo-8346053.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-r-fera-432059.jpg",
+      "PackagePath": "staticwebassets/image/pexels-r-fera-432059.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-ron-lach-8346044.jpg",
+      "PackagePath": "staticwebassets/image/pexels-ron-lach-8346044.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-ron-lach-8346053.jpg",
+      "PackagePath": "staticwebassets/image/pexels-ron-lach-8346053.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-scott-webb-3255761.jpg",
+      "PackagePath": "staticwebassets/image/pexels-scott-webb-3255761.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-terje-sollie-298863.jpg",
+      "PackagePath": "staticwebassets/image/pexels-terje-sollie-298863.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-tha°s-silva-3385234.jpg",
+      "PackagePath": "staticwebassets/image/pexels-tha°s-silva-3385234.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pexels-wouter-de-jong-571169.jpg",
+      "PackagePath": "staticwebassets/image/pexels-wouter-de-jong-571169.jpg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pufeer.jpeg",
+      "PackagePath": "staticwebassets/image/pufeer.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/pufer.jpeg",
+      "PackagePath": "staticwebassets/image/pufer.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/puffer.jpeg",
+      "PackagePath": "staticwebassets/image/puffer.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/rings.jpeg",
+      "PackagePath": "staticwebassets/image/rings.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/running jacket.jpeg",
+      "PackagePath": "staticwebassets/image/running jacket.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/shacket.jpeg",
+      "PackagePath": "staticwebassets/image/shacket.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/shirt.jpeg",
+      "PackagePath": "staticwebassets/image/shirt.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/shoe1.jpeg",
+      "PackagePath": "staticwebassets/image/shoe1.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/speed.jpeg",
+      "PackagePath": "staticwebassets/image/speed.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/sportswears.png",
+      "PackagePath": "staticwebassets/image/sportswears.png"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/stock.jpeg",
+      "PackagePath": "staticwebassets/image/stock.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/storm.jpeg",
+      "PackagePath": "staticwebassets/image/storm.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/sweatshirt.jpeg",
+      "PackagePath": "staticwebassets/image/sweatshirt.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/thiago.jpeg",
+      "PackagePath": "staticwebassets/image/thiago.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/tracks.jpeg",
+      "PackagePath": "staticwebassets/image/tracks.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/trainer.jpeg",
+      "PackagePath": "staticwebassets/image/trainer.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/trucker.jpeg",
+      "PackagePath": "staticwebassets/image/trucker.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/windproof.jpeg",
+      "PackagePath": "staticwebassets/image/windproof.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/image/woolcoat.jpeg",
+      "PackagePath": "staticwebassets/image/woolcoat.jpeg"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmed_dahir/aspnetcoreapp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.aspnetcoreapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.aspnetcoreapp.props",
+      "PackagePath": "build\\aspnetcoreapp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.aspnetcoreapp.props",
+      "PackagePath": "buildMultiTargeting\\aspnetcoreapp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.aspnetcoreapp.props",
+      "PackagePath": "buildTransitive\\aspnetcoreapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

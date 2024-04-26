@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>
+    @Model.Message
+</p>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form method="post"  class="form" asp-page="Index">
+     <h1>Add product information</h1>
+    <div class = "forms">
+  <label  class = "label" asp-for= "@Model.Products.Id" ></label>
+<input type="text" asp-for="@Model.Products.Id"  class = "input" />
+</div>
+<div class = "forms">
+<label  class = "label" asp-for="@Model.Products.Name" ></label>
+<input class = "input" type="text" asp-for="@Model.Products.Name" />
+</div>
+<div class = "forms">
+<label  class = "label" asp-for="@Model.Products.Description" ></label>
+<input  class = "input" type="text" asp-for="@Model.Products.Description" />
+
+</div>
+<div class = "forms">
+<label  class = "label" asp-for="@Model.Products.Price" ></label>
+<input  class = "input" type="text" asp-for="@Model.Products.Price" />
+</div>
+<div class = "forms">
+<label  class = "label" asp-for="@Model.Products.ProductImage" ></label>
+<input  class = "input" type="text" asp-for="@Model.Products.ProductImage" />
+</div>
+<input class = "save" type="submit" value="Save" asp-page-handler = "Update" />
+</form>
+ 
+         
